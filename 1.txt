@@ -1,2 +1,4 @@
 hi there 
 	this is my first txt file
+
+this is new line
